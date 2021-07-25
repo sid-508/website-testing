@@ -1,3 +1,4 @@
+<script>
 /*************** SCROLLBAR BASE CSS ***************/
 .scroll-wrapper {
   overflow: hidden !important;
@@ -902,3 +903,4 @@
 .scrollbar-chrome > .scroll-element.scroll-y.scroll-scrollx_visible .scroll-element_track {
   top: -19px;
 }
+</script>
